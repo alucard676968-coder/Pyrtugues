@@ -374,7 +374,7 @@ O projeto pode aparecer em pesquisas relacionadas a **Pyrtugues**, **programaç�
 
 ## 🌱 Estado do projeto
 
-**Versão atual: 1.2.0**
+**Versão atual: 1.3.0**
 
 O Pyrtugues continua em desenvolvimento. Entre as áreas que podem evoluir estão:
 
