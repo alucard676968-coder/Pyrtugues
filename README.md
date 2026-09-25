@@ -280,6 +280,7 @@ Pyrtugues/
 ├── README.md
 ├── Pyrtugues_code.py
 ├── index.html
+├── Pyrtugues_Documentacao
 └── ...
 ```
 
@@ -290,7 +291,7 @@ Pyrtugues/
 | `README.md` | Documentação principal |
 | `Pyrtugues_code.py` | Código principal da versão Desktop |
 | `index.html` | Parte Web do projeto |
-
+| `Pyrtugues_Documentacao`| Documentação do projeto |
 ---
 
 ## 🛠️ Tecnologias
